@@ -3,6 +3,6 @@
 ### Chapter I -  Fundamentos do ReactJS
   ##### Configurando ambiente;
   ##### Conteios importantes;
-  #### Chamadas HTTP;
-  Usando TypeScript;
-  Finalizando aplicação;
+  ##### Chamadas HTTP;
+  ##### Usando TypeScript;
+  ##### Finalizando aplicação;
