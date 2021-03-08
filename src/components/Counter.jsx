@@ -14,7 +14,7 @@ export function Counter() {
                 type="button"
                 onClick={increment}
             >
-                Increment
+                Increment +1
             </button>
         </div>
     )
