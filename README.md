@@ -1,6 +1,6 @@
 # Ignite---Github-explorer
-Rockeseat - Ignite 2021
-Chapter I -  Fundamentos do ReactJS
+## Rockeseat - Ignite 2021
+### Chapter I -  Fundamentos do ReactJS
   Configurando ambiente;
   Conteios importantes;
   Chamadas HTTP;
