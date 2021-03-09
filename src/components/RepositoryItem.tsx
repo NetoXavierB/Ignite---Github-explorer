@@ -7,7 +7,7 @@ interface RepositoryItemProps {
 }
 
 
-export function RepositoryItem(props) {
+export function RepositoryItem(props: RepositoryItemProps) {
     return (
         <li>
             <strong>{props.repository.name}</strong>
